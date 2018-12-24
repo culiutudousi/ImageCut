@@ -25,7 +25,7 @@ A basic process is as follows:
 
 ## Some Disadvantages
 
-1. When pack into exe, the start-up time is to slow
+1. When packed into exe, the start-up time of ImageCut is too slow
 2. The method to show display image wastes too much calculation
 
 ## Introduction of Code
