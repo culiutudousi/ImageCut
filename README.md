@@ -11,14 +11,14 @@ It is designed to cut these kind of images:
 
 A basic process is as follows:
 
-* press "Open" button to open a image
+* Press "Open" button to open a image
 * Add cut lines
     * "Left Click" on image to add cut line 
     * "Right Click" to remove cut line 
     * "Clear" button on remove all cut lines 
     * "Ctrl" + "Mouse Wheel" to zoom in and out
-* press "Set" button to set parameters such as max resolution and max file size
-* press "Save" button to save cut pieces, finish when the "Save" button turns to green 
+* Press "Set" button to set parameters such as max resolution and max file size
+* Press "Save" button to save cut pieces, finish when the "Save" button turns to green 
     * cut pieces will be saved in the same directory as the origin image 
     * cut pieces will be saved in jpg format
 
