@@ -8,6 +8,10 @@ It is designed to cut these kind of images:
 * screenshot of a long web page
 * a doc or pdf file that saved as one image
 
+## Download
+
+[windows release](https://github.com/culiutudousi/ImageCut/blob/master/release/ImageCut_win.zip)
+
 ## How to Use ImageCut?
 
 A basic process is as follows:
