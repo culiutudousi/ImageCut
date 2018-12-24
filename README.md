@@ -10,7 +10,7 @@ It is designed to cut these kind of images:
 
 ## Download
 
-[windows release](https://github.com/culiutudousi/ImageCut/blob/master/release/ImageCut_win.zip)
+[Windows Release](https://github.com/culiutudousi/ImageCut/blob/master/release/ImageCut_win.zip)
 
 ## How to Use ImageCut?
 
