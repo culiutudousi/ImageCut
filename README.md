@@ -2,7 +2,7 @@
 
 ## What Is ImageCut?
 
-ImageCut can cut a long vertical image to many pieces conveniently, some parameters such as max resolution and max file size can be set when cutting.
+ImageCut is a convenient tool to cut a long vertical image to many pieces, some parameters can be set when cutting such as max resolution and max file size.
 
 It is designed to cut these kind of images:
 * screenshot of a long web page
