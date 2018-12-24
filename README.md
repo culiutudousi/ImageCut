@@ -3,9 +3,10 @@
 ## What Is ImageCut?
 
 ImageCut can cut a long vertical image to many pieces conveniently, some parameters such as max resolution and max file size can be set when cutting.
+
 It is designed to cut these kind of images:
-    screenshot of a long web page
-    a doc or pdf file that saved as one image
+* screenshot of a long web page
+* a doc or pdf file that saved as one image
 
 ## How to Use ImageCut?
 
